@@ -29,7 +29,7 @@ export const Footer: React.FC<FooterProps> = ({ data }) => {
                     <a href="https://github.com" target="_blank" className="p-3 bg-slate-800 rounded-full hover:bg-primary hover:text-slate-900 transition-all transform hover:-translate-y-1">
                         <Github size={24} />
                     </a>
-                    <a href="/public/CV_Lelouche.pdf" download className="p-3 bg-slate-800 rounded-full hover:bg-secondary hover:text-white transition-all transform hover:-translate-y-1" aria-label="Download CV">
+                    <a href="/CV_Lelouche.pdf" download className="p-3 bg-slate-800 rounded-full hover:bg-secondary hover:text-white transition-all transform hover:-translate-y-1" aria-label="Download CV">
                         <FileText size={24} />
                     </a>
                 </div>
