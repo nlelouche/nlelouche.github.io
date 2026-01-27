@@ -4,9 +4,12 @@ import { Github, Linkedin, Mail, FileText } from 'lucide-react';
 
 interface FooterProps {
     data: any;
+    lang: string;
 }
 
-export const Footer: React.FC<FooterProps> = ({ data }) => {
+export const Footer: React.FC<FooterProps> = ({ data, lang }) => {
+    const cvPath = lang === 'en' ? '/CV-Lelouche_en.pdf' : '/CV_Lelouche.pdf';
+
     return (
         <footer id="contact" className="bg-slate-900 border-t border-slate-800 text-slate-300 py-16 px-6">
             <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
@@ -29,7 +32,7 @@ export const Footer: React.FC<FooterProps> = ({ data }) => {
                     <a href="https://github.com" target="_blank" className="p-3 bg-slate-800 rounded-full hover:bg-primary hover:text-slate-900 transition-all transform hover:-translate-y-1">
                         <Github size={24} />
                     </a>
-                    <a href="/CV_Lelouche.pdf" download className="p-3 bg-slate-800 rounded-full hover:bg-secondary hover:text-white transition-all transform hover:-translate-y-1" aria-label="Download CV">
+                    <a href={cvPath} download className="p-3 bg-slate-800 rounded-full hover:bg-secondary hover:text-white transition-all transform hover:-translate-y-1" aria-label="Download CV">
                         <FileText size={24} />
                     </a>
                 </div>

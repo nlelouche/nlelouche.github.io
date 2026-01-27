@@ -52,7 +52,7 @@ export const App: React.FC<AppProps> = ({ lang, data }) => {
                 <Projects data={data} />
             </main>
 
-            <Footer data={profile} />
+            <Footer data={profile} lang={lang} />
             <WhatsAppBtn />
         </div>
     );
