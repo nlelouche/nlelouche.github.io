@@ -1,0 +1,23 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { App } from '../App';
+import { cvData } from '../data/cv';
+---
+
+<script is:inline>
+	// Language Auto-Detection
+	// Only redirects if:
+	// 1. User has NOT manually selected a language (site_lang is null)
+	// 2. Browser language starts with 'es'
+	// 3. Current page is root (check implied by this script being only here)
+	const userLang = navigator.language || navigator.userLanguage;
+	const savedLang = localStorage.getItem('site_lang');
+	
+	if (!savedLang && userLang.startsWith('es')) {
+		window.location.replace('/es/');
+	}
+</script>
+
+<Layout title="Lelouche | Senior Engineer" lang="en">
+	<App client:load lang="en" data={cvData.en} />
+</Layout>

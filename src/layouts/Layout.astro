@@ -1,0 +1,43 @@
+---
+import '../styles/global.css';
+
+interface Props {
+	title: string;
+	lang: string;
+}
+
+const { title, lang } = Astro.props;
+---
+
+<!doctype html>
+<html lang={lang} class="dark">
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="generator" content={Astro.generator} />
+		
+		<!-- SEO -->
+		<title>Lelouche Dietrich | Technical Lead & Senior Game Dev</title>
+		<meta name="description" content="Senior Technical Lead & Game Developer specialized in Unity 3D, C#, and scalable software architecture. Expert in performance optimization and AAA game development." />
+		<meta name="author" content="Lelouche Dietrich" />
+		<meta name="keywords" content="Technical Lead, Senior Game Developer, Unity 3D, C#, Software Architecture, Portfolio, Buenos Aires" />
+
+		<!-- Open Graph / LinkedIn / Facebook -->
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://nlelouche.github.io/" />
+		<meta property="og:title" content="Lelouche Dietrich | Technical Lead & Senior Game Dev" />
+		<meta property="og:description" content="Senior Technical Lead & Game Developer specialized in Unity 3D, C#, and scalable software architecture." />
+		<meta property="og:image" content="https://nlelouche.github.io/og-image.jpg" />
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content="https://nlelouche.github.io/" />
+		<meta property="twitter:title" content="Lelouche Dietrich | Technical Lead & Senior Game Dev" />
+		<meta property="twitter:description" content="Senior Technical Lead & Game Developer specialized in Unity 3D, C#, and scalable software architecture." />
+		<meta property="twitter:image" content="https://nlelouche.github.io/og-image.jpg" />
+	</head>
+	<body class="bg-slate-50 dark:bg-slate-900 text-slate-900 dark:text-slate-50 transition-colors duration-300">
+		<slot />
+	</body>
+</html>
