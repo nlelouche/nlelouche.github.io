@@ -1,0 +1,257 @@
+{
+  "header": {
+    "name": "Lelouche Dietrich Nahuel Ezequiel",
+    "role": "Liderazgo Técnico",
+    "pitch": "Líder de ingeniería con visión estratégica y experiencia end-to-end. Especializado en potenciar equipos multidisciplinarios de alto rendimiento, mentorear talento y orquestar la entrega de productos complejos desde la concepción hasta el lanzamiento.",
+    "contact": {
+      "email": "calaverax@gmail.com",
+      "phone": "+54 9 11 3074-9723",
+      "linkedin": "linkedin.com/in/lelouche/"
+    }
+  },
+  "sections": {
+    "profile": "Perfil",
+    "skills": "Habilidades Técnicas y Herramientas",
+    "languages": "Idiomas",
+    "education": "Educación",
+    "experience": "Experiencia Profesional",
+    "projects": "Proyectos Destacados"
+  },
+  "profile": {
+    "summary": "Ingeniero de Software Senior con más de 15 años de experiencia impulsando el desarrollo de videojuegos en compañías de clase mundial como Gameloft, Globant y Trick Studios. Con un historial comprobado en la entrega de títulos AAA y éxitos móviles masivos, mi enfoque se centra en la arquitectura de sistemas escalables y el fortalecimiento técnico de equipos multidisciplinarios. Apasionado por resolver desafíos complejos de ingeniería y elevar los estándares de calidad en cada proyecto."
+  },
+  "skills": {
+    "list": [
+      "Unity 3D",
+      "C#",
+      "C++",
+      "Objective-C (iOS)",
+      "JavaScript / Node.js",
+      "Groovy",
+      "SDK/Plugins Integrations",
+      "Windows Mobile",
+      "JSon / Rest API",
+      "IA/Automatización",
+      "Jira / Bugsnag / Sparx",
+      "Bash Console",
+      "Scrum Master",
+      "Unreal Engine (Investigación)"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Español",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglés",
+      "level": "Comunicacional"
+    }
+  ],
+  "education": [
+    {
+      "school": "TECH University",
+      "degree": "Máster título propio MBA en Dirección de IT (CTO)",
+      "status": "Actualmente cursando"
+    },
+    {
+      "school": "TECH University",
+      "degree": "Licenciatura en Diseño de Videojuegos",
+      "status": "Completado"
+    },
+    {
+      "school": "I.M.A.G.E Campus",
+      "degree": "Desarrollador Profesional de Videojuegos",
+      "status": "2007 - 2010 (Incompleto)"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Trick Studios",
+      "role": "Senior Engineer",
+      "period": "2024 - Actualidad",
+      "description": "Como Ingeniero Senior en un consolidado proyecto AAA, mi enfoque principal es la resolución de errores críticos y el mantenimiento del ecosistema de herramientas del juego. Mis responsabilidades incluyen la gestión de servidores, bases de datos y el desarrollo de software interno, asegurando la estabilidad y eficiencia del entorno de producción y desarrollo.",
+      "tech": "C#, JavaScript, Groovy, Bash Console, Node.js, Jira, Bugsnag, Sparx"
+    },
+    {
+      "company": "Games Station",
+      "role": "Líder Técnico (Tech Lead)",
+      "period": "2021 - 2024",
+      "description": "Programador principal y referente técnico para el proyecto Grow Empire: Rome (Android/iOS). Enfoque clave en el rediseño de la UI, mejoras visuales y desarrollo de nuevos sistemas diseñados para atacar la retención e ingresos del juego.",
+      "tech": "Unity 3D, Firebase, Ads Mediators, Unity Cloud Build"
+    },
+    {
+      "company": "Bigfoot Games",
+      "role": "Desarrollador de Videojuegos Sr.",
+      "period": "2019 - 2021",
+      "description": "Trabajé junto a equipos multidisciplinarios para prototipar y crear Idle Games desde cero (Fist Of Furry). Co-desarrollé y mantuve un SDK común para el prototipado rápido de Idle Games.",
+      "tech": "Unity 3D, Json, Rest API, Spine (Animaciones), Ads Mediators"
+    },
+    {
+      "company": "Autónomo",
+      "role": "Desarrollador de Juegos Indie",
+      "period": "2018 - 2021",
+      "description": "Enfoque en investigación y desarrollo autodirigido para dominar flujos de trabajo en Unreal Engine y Unity 3D.",
+      "tech": "Unity 3D / Unreal Engine"
+    },
+    {
+      "company": "Widow Games",
+      "role": "Desarrollador de Videojuegos Sr.",
+      "period": "2017 - 2018",
+      "description": "Mantenimiento y unificación de varios proyectos finalizados de juegos de mesa clásicos (LIFE, T.E.G.). Estandarización de versiones de Unity y plugins, e integración de la automatización de builds con Jenkins.",
+      "tech": "Unity 3D, Jenkins"
+    },
+    {
+      "company": "Artik Games",
+      "role": "Lead Programmer",
+      "period": "Julio 2013 - Agosto 2015",
+      "description": "Programador Líder a cargo del desarrollo de videojuegos.",
+      "tech": "C#, Unity 3D"
+    },
+    {
+      "company": "Three pillar Global",
+      "role": "Business Software Developer",
+      "period": "Enero 2012 - Junio 2014",
+      "description": "Desarrollo de software de negocios bajo Objective-C para plataformas iPhone.",
+      "tech": "Objective-C, iPhone Development"
+    },
+    {
+      "company": "Teracode S.A",
+      "role": "Game Developer / PM / GD",
+      "period": "Junio 2009 - Julio 2010",
+      "description": "Programación de Videojuegos (Objective-C para iPhone/iPod Touch), Diseño Conceptual de Juegos y Gerente de Proyecto (Scrum Master).",
+      "tech": "Objective-C, iPhone/iPod Touch, Scrum Master"
+    },
+    {
+      "company": "Gameloft Argentina S.A",
+      "role": "Video Game Programmer",
+      "period": "Abril 2008 - Junio 2009",
+      "description": "Programación de Videojuegos bajo C++ para Windows Mobile.",
+      "tech": "C++, Windows Mobile"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Grow Empire: Rome",
+      "company": "Games Station",
+      "description": "Mezcla de Asedio de Castillos con estrategia de Defensa de Torres. Lanzado con éxito en Android y iOS, y posteriormente portado a Steam y tiendas de Oriente Medio. Se utilizó Unity 3D y Firebase Remote Config para configuraciones remotas.",
+      "link": "https://play.google.com/store/search?q=grow%20empire%20rome&c=apps&hl=es_AR",
+      "linkText": "Ver en Google Play"
+    },
+    {
+      "title": "Pocket Politics 2",
+      "company": "Bigfoot Games (B2B para Kongregate)",
+      "description": "Un Gatcha Idle desarrollado B2B. El trabajo incluyó el reskinning del juego base y la reelaboración de varios sistemas centrales para adaptarlos al nuevo aspecto, sensación y características específicas del cliente.",
+      "link": "https://play.google.com/store/apps/details?id=com.kongregate.mobile.pocketpolitics.google&hl=es_419",
+      "linkText": "Ver en Google Play"
+    },
+    {
+      "title": "Hooligans The Bravest",
+      "company": "Artik Games",
+      "description": "Un híbrido BeatEmUp con Defensa de Torres, desarrollado en Unity 4. Implementé todas las mecánicas de juego y trabajé estrechamente con el Game Designer y el Artista. Utilicé la primera iteración de Unity Asset Bundles para la entrega de contenido bajo demanda. (Nota: Ya no está disponible en tiendas).",
+      "link": "https://www.youtube.com/watch?v=owkajZc6kuI",
+      "linkText": "Ver video en YouTube"
+    }
+  ],
+  "game": {
+    "available": "DISPONIBLE PARA TRABAJAR",
+    "subtitle": "LIDERAZGO TÉCNICO · SENIOR GAME DEV",
+    "summary": "15 años desarrollando juegos — desde C++ en Windows Mobile en Gameloft hasta Unity 3D en el App Store. Construyo sistemas que escalan, equipos que entregan y juegos que millones disfrutan.",
+    "hire": "▶ CONTRATAME",
+    "viewGames": "VER JUEGOS",
+    "characterCard": "FICHA DE PERSONAJE",
+    "class": "TECH LEAD · CLASE S",
+    "topSkills": "HABILIDADES TOP",
+    "stats": {
+      "yearsXP": "Años de XP",
+      "gamesShipped": "Juegos Lanzados",
+      "techLeadRoles": "Roles de Tech Lead",
+      "platforms": "Plataformas"
+    },
+    "nav": {
+      "home": "INICIO",
+      "skills": "SKILLS",
+      "xpLog": "HISTORIAL XP",
+      "training": "FORMACIÓN",
+      "games": "JUEGOS",
+      "contact": "CONTACTO"
+    },
+    "sections": {
+      "skillsNumber": "01",
+      "skillsTitle": "ÁRBOL DE SKILLS",
+      "skillsSubtitle": "HABILIDADES Y TECNOLOGÍAS",
+      "xpNumber": "02",
+      "xpTitle": "HISTORIAL DE EXPERIENCIA",
+      "xpSubtitle": "TRAYECTORIA PROFESIONAL",
+      "eduNumber": "03",
+      "eduTitle": "REGISTRO DE FORMACIÓN",
+      "eduSubtitle": "EDUCACIÓN Y FORMACIÓN",
+      "projectsNumber": "04",
+      "projectsTitle": "JUEGOS LANZADOS",
+      "projectsSubtitle": "PROYECTOS DESTACADOS",
+      "contactNumber": "05",
+      "contactTitle": "CONTACTO",
+      "contactSubtitle": "¿LISTO PARA JUGAR?"
+    },
+    "edu": {
+      "active": "● EN CURSO",
+      "completed": "✓ COMPLETADO",
+      "incomplete": "○ INCOMPLETO"
+    },
+    "contact": {
+      "tagline": "¿Buscas un Senior Game Dev o Tech Lead que entrega resultados? Hablemos.",
+      "email": "📧 ENVIAR EMAIL",
+      "linkedin": "💼 LINKEDIN",
+      "github": "🐙 GITHUB",
+      "downloadCV": "DESCARGAR CV (PDF)",
+      "footer": "© 2026 LELOUCHE DIETRICH · PORTFOLIO_OS v15.0",
+      "switchMode": "CAMBIAR A MODO TERMINAL"
+    },
+    "boot": {
+      "title": "PORTFOLIO_OS",
+      "subtitle": "v15.0 — EDICIÓN GAME DEV",
+      "loading": "CARGANDO",
+      "pressStart": "▶ PRESIONA START",
+      "lines": [
+        "> INICIALIZANDO PORTFOLIO_OS v15.0...",
+        "> Cargando datos del jugador... [OK]",
+        "> Montando módulos de experiencia... [OK]",
+        "> Compilando 15 años de XP... [OK]",
+        "> Calibrando motor de juego... [OK]",
+        "> Conectando a servidores de Gameloft... [OK]",
+        "> Cargando runtime de Unity 3D... [OK]",
+        "> Verificando credenciales AAA... [OK]",
+        "> Todos los sistemas nominales.",
+        "> PRESIONA START"
+      ]
+    },
+    "viewProject": "VER PROYECTO",
+    "terminal": "← TERMINAL",
+    "projects": [
+      {
+        "description": "Tower Defense en Android, iOS y Steam. UI, retención y config remota con Firebase."
+      },
+      {
+        "description": "Gacha Idle B2B para Kongregate. Reskin completo y refactorización de sistemas."
+      },
+      {
+        "description": "Idle de acción desde cero. Co-desarrollé un SDK compartido para prototipado."
+      },
+      {
+        "description": "Live-ops en Games Station. Bugs, mejoras de gameplay y plugins para Google Play."
+      },
+      {
+        "description": "BeatEmUp / Tower Defense en Unity 4. Todas las mecánicas con Unity Asset Bundles."
+      },
+      {
+        "description": "Primer rol como Lead Programmer. Drag Racing 3D — lideré el ciclo completo."
+      },
+      {
+        "description": "Adaptación digital de 'El Juego de la Vida' para Android e iOS en Widow Games."
+      },
+      {
+        "description": "Adaptación digital del clásico juego de estrategia argentino T.E.G. para móvil."
+      }
+    ]
+  }
+}

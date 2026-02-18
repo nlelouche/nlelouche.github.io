@@ -1,0 +1,257 @@
+{
+    "header": {
+        "name": "Lelouche Dietrich Nahuel Ezequiel",
+        "role": "Technical Lead",
+        "pitch": "Engineering leader with strategic vision and end-to-end experience. Specialized in empowering high-performance multidisciplinary teams, mentoring talent, and orchestrating the delivery of complex products from conception to launch.",
+        "contact": {
+            "email": "calaverax@gmail.com",
+            "phone": "+54 9 11 3074-9723",
+            "linkedin": "linkedin.com/in/lelouche/"
+        }
+    },
+    "sections": {
+        "profile": "Profile",
+        "skills": "Technical Skills and Tools",
+        "languages": "Languages",
+        "education": "Education",
+        "experience": "Professional Experience",
+        "projects": "Featured Projects"
+    },
+    "profile": {
+        "summary": "Senior Software Engineer with over 15 years of experience driving game development at world-class companies like Gameloft, Globant, and Trick Studios. With a proven track record in delivering AAA titles and massive mobile hits, my focus is on scalable system architecture and the technical empowerment of multidisciplinary teams. Passionate about solving complex engineering challenges and raising quality standards in every project."
+    },
+    "skills": {
+        "list": [
+            "Unity 3D",
+            "C#",
+            "C++",
+            "Objective-C (iOS)",
+            "JavaScript / Node.js",
+            "Groovy",
+            "SDK/Plugins Integrations",
+            "Windows Mobile",
+            "JSon / Rest API",
+            "AI/Automation",
+            "Jira / Bugsnag / Sparx",
+            "Bash Console",
+            "Scrum Master",
+            "Unreal Engine (Research)"
+        ]
+    },
+    "languages": [
+        {
+            "name": "Spanish",
+            "level": "Native"
+        },
+        {
+            "name": "English",
+            "level": "Communicational"
+        }
+    ],
+    "education": [
+        {
+            "school": "TECH University",
+            "degree": "MBA in IT Management (CTO)",
+            "status": "Currently studying"
+        },
+        {
+            "school": "TECH University",
+            "degree": "Bachelor's Degree in Video Game Design",
+            "status": "Completed"
+        },
+        {
+            "school": "I.M.A.G.E Campus",
+            "degree": "Professional Video Game Developer",
+            "status": "2007 - 2010 (Incomplete)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Trick Studios",
+            "role": "Senior Engineer",
+            "period": "2024 - Present",
+            "description": "As a Senior Engineer on a consolidated AAA project, my main focus is on critical bug resolution and maintaining the game's tool ecosystem. My responsibilities include server and database management and internal software development, ensuring the stability and efficiency of the production and development environment.",
+            "tech": "C#, JavaScript, Groovy, Bash Console, Node.js, Jira, Bugsnag, Sparx"
+        },
+        {
+            "company": "Games Station",
+            "role": "Tech Lead",
+            "period": "2021 - 2024",
+            "description": "Lead Programmer and technical reference for the project Grow Empire: Rome (Android/iOS). Key focus on UI redesign, visual improvements, and development of new systems designed to target game retention and revenue.",
+            "tech": "Unity 3D, Firebase, Ads Mediators, Unity Cloud Build"
+        },
+        {
+            "company": "Bigfoot Games",
+            "role": "Sr. Video Game Developer",
+            "period": "2019 - 2021",
+            "description": "Worked alongside multidisciplinary teams to prototype and create Idle Games from scratch (Fist Of Furry). Co-developed and maintained a common SDK for rapid Idle Games prototyping.",
+            "tech": "Unity 3D, Json, Rest API, Spine (Animations), Ads Mediators"
+        },
+        {
+            "company": "Autonomous",
+            "role": "Indie Game Developer",
+            "period": "2018 - 2021",
+            "description": "Focus on self-directed research and development to master workflows in Unreal Engine and Unity 3D.",
+            "tech": "Unity 3D / Unreal Engine"
+        },
+        {
+            "company": "Widow Games",
+            "role": "Sr. Video Game Developer",
+            "period": "2017 - 2018",
+            "description": "Maintenance and unification of several finished classic board game projects (LIFE, T.E.G.). Standardization of Unity versions and plugins, and integration of build automation with Jenkins.",
+            "tech": "Unity 3D, Jenkins"
+        },
+        {
+            "company": "Artik Games",
+            "role": "Lead Programmer",
+            "period": "July 2013 - August 2015",
+            "description": "Lead Programmer in charge of video game development.",
+            "tech": "C#, Unity 3D"
+        },
+        {
+            "company": "Three pillar Global",
+            "role": "Business Software Developer",
+            "period": "January 2012 - June 2014",
+            "description": "Business software development under Objective-C for iPhone platforms.",
+            "tech": "Objective-C, iPhone Development"
+        },
+        {
+            "company": "Teracode S.A",
+            "role": "Game Developer / PM / GD",
+            "period": "June 2009 - July 2010",
+            "description": "Video Game Programming (Objective-C for iPhone/iPod Touch), Conceptual Game Design, and Project Manager (Scrum Master).",
+            "tech": "Objective-C, iPhone/iPod Touch, Scrum Master"
+        },
+        {
+            "company": "Gameloft Argentina S.A",
+            "role": "Video Game Programmer",
+            "period": "April 2008 - June 2009",
+            "description": "Video Game Programming under C++ for Windows Mobile.",
+            "tech": "C++, Windows Mobile"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Grow Empire: Rome",
+            "company": "Games Station",
+            "description": "Mix of Castle Siege with Tower Defense strategy. Successfully launched on Android and iOS, and subsequently ported to Steam and Middle Eastern stores. Unity 3D and Firebase Remote Config were used for remote configurations.",
+            "link": "https://play.google.com/store/search?q=grow%20empire%20rome&c=apps&hl=es_AR",
+            "linkText": "View on Google Play"
+        },
+        {
+            "title": "Pocket Politics 2",
+            "company": "Bigfoot Games (B2B for Kongregate)",
+            "description": "A B2B Gacha Idle game. Work included reskinning the base game and reworking several core systems to adapt them to the new look, feel, and specific client features.",
+            "link": "https://play.google.com/store/apps/details?id=com.kongregate.mobile.pocketpolitics.google&hl=es_419",
+            "linkText": "View on Google Play"
+        },
+        {
+            "title": "Hooligans The Bravest",
+            "company": "Artik Games",
+            "description": "A BeatEmUp hybrid with Tower Defense, developed in Unity 4. Implemented all game mechanics and worked closely with the Game Designer and Artist. Used the first iteration of Unity Asset Bundles for on-demand content delivery. (Note: No longer available in stores).",
+            "link": "https://www.youtube.com/watch?v=owkajZc6kuI",
+            "linkText": "View video on YouTube"
+        }
+    ],
+    "game": {
+        "available": "AVAILABLE FOR HIRE",
+        "subtitle": "TECHNICAL LEAD · SENIOR GAME DEV",
+        "summary": "15 years shipping games — from C++ on Windows Mobile at Gameloft to Unity 3D on the App Store. I build systems that scale, teams that deliver, and games that millions play.",
+        "hire": "▶ HIRE ME",
+        "viewGames": "VIEW GAMES",
+        "characterCard": "CHARACTER CARD",
+        "class": "TECH LEAD · CLASS S",
+        "topSkills": "TOP SKILLS",
+        "stats": {
+            "yearsXP": "Years XP",
+            "gamesShipped": "Games Shipped",
+            "techLeadRoles": "Tech Lead Roles",
+            "platforms": "Platforms"
+        },
+        "nav": {
+            "home": "HOME",
+            "skills": "SKILLS",
+            "xpLog": "XP LOG",
+            "training": "TRAINING",
+            "games": "GAMES",
+            "contact": "CONTACT"
+        },
+        "sections": {
+            "skillsNumber": "01",
+            "skillsTitle": "SKILL TREE",
+            "skillsSubtitle": "ABILITIES & TECH STACK",
+            "xpNumber": "02",
+            "xpTitle": "EXPERIENCE LOG",
+            "xpSubtitle": "CAREER HISTORY",
+            "eduNumber": "03",
+            "eduTitle": "TRAINING LOG",
+            "eduSubtitle": "EDUCATION & FORMATION",
+            "projectsNumber": "04",
+            "projectsTitle": "SHIPPED GAMES",
+            "projectsSubtitle": "FEATURED PROJECTS",
+            "contactNumber": "05",
+            "contactTitle": "CONTACT",
+            "contactSubtitle": "READY TO PLAY?"
+        },
+        "edu": {
+            "active": "● IN PROGRESS",
+            "completed": "✓ COMPLETED",
+            "incomplete": "○ INCOMPLETE"
+        },
+        "contact": {
+            "tagline": "Looking for a Senior Game Dev or Technical Lead who ships? Let's talk.",
+            "email": "📧 SEND EMAIL",
+            "linkedin": "💼 LINKEDIN",
+            "github": "🐙 GITHUB",
+            "downloadCV": "DOWNLOAD CV (PDF)",
+            "footer": "© 2026 LELOUCHE DIETRICH · PORTFOLIO_OS v15.0",
+            "switchMode": "SWITCH TO TERMINAL MODE"
+        },
+        "boot": {
+            "title": "PORTFOLIO_OS",
+            "subtitle": "v15.0 — GAME DEV EDITION",
+            "loading": "LOADING",
+            "pressStart": "▶ PRESS START",
+            "lines": [
+                "> INITIALIZING PORTFOLIO_OS v15.0...",
+                "> Loading player data... [OK]",
+                "> Mounting experience modules... [OK]",
+                "> Compiling 15 years of XP... [OK]",
+                "> Calibrating game engine... [OK]",
+                "> Connecting to Gameloft servers... [OK]",
+                "> Loading Unity 3D runtime... [OK]",
+                "> Verifying AAA credentials... [OK]",
+                "> All systems nominal.",
+                "> PRESS START"
+            ]
+        },
+        "viewProject": "VIEW PROJECT",
+        "terminal": "← TERMINAL",
+        "projects": [
+            {
+                "description": "Tower Defense on Android, iOS & Steam. Led UI, retention & Firebase remote config."
+            },
+            {
+                "description": "B2B Gacha Idle for Kongregate. Reskinned base game and reworked core systems."
+            },
+            {
+                "description": "Idle action game built from scratch. Co-developed a shared SDK for rapid prototyping."
+            },
+            {
+                "description": "Live-ops & maintenance at Games Station. Bug fixes and plugin updates for Google Play."
+            },
+            {
+                "description": "BeatEmUp / Tower Defense in Unity 4. Shipped all mechanics with Unity Asset Bundles."
+            },
+            {
+                "description": "First Lead Programmer role. 3D Drag Racing — led full dev cycle end to end."
+            },
+            {
+                "description": "Digital adaptation of 'The Game of Life' for Android & iOS at Widow Games."
+            },
+            {
+                "description": "Digital adaptation of the iconic Argentine strategy game T.E.G. for Android & iOS."
+            }
+        ]
+    }
+}
