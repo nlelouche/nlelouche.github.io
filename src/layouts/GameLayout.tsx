@@ -23,9 +23,12 @@ const EXPERIENCE_DATA = [
     { company: "Trick Studios", rank: "S", tech: ["C#", "JavaScript", "Groovy", "Node.js"] },
     { company: "Games Station", rank: "S", tech: ["Unity 3D", "Firebase", "Ads SDK"] },
     { company: "Bigfoot Games", rank: "A", tech: ["Unity 3D", "Spine", "REST API"] },
+    { company: "Autónomo", rank: "A", tech: ["Unity 3D", "Unreal Engine"] },
     { company: "Widow Games", rank: "A", tech: ["Unity 3D", "Jenkins"] },
     { company: "Artik Games", rank: "B", tech: ["C#", "Unity 3D"] },
-    { company: "Gameloft Argentina", rank: "B", tech: ["C++", "Windows Mobile"] },
+    { company: "Three pillar Global", rank: "B", tech: ["Objective-C", "iPhone Dev"] },
+    { company: "Teracode S.A", rank: "B", tech: ["Objective-C", "Scrum Master"] },
+    { company: "Gameloft Argentina S.A", rank: "B", tech: ["C++", "Windows Mobile"] },
 ];
 
 const PROJECTS_DATA = [
