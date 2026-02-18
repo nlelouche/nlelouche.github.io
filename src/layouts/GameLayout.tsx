@@ -437,12 +437,13 @@ const GameLayout = () => {
                   linear-gradient(90deg, rgba(0,212,170,0.3) 1px, transparent 1px)
                 `,
                                 backgroundSize: "60px 60px",
+                                pointerEvents: "none",
                             }}
                         />
                         <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-green-500/5 rounded-full blur-3xl pointer-events-none" />
                         <div className="absolute bottom-1/4 right-1/4 w-64 h-64 bg-teal-500/5 rounded-full blur-3xl pointer-events-none" />
 
-                        <div className="max-w-7xl mx-auto px-6 md:px-12 w-full py-24">
+                        <div className="max-w-7xl mx-auto px-6 md:px-12 w-full py-24 relative z-10 pointer-events-auto">
                             <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
                                 {/* Left: Text */}
                                 <div>
